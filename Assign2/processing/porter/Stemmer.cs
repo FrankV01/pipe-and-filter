@@ -1,4 +1,10 @@
-﻿using System;
+﻿/**
+ * Note this file contains, in part, a stemmer implementation released "free of charge". 
+ * Additiaonl details are below. I do not claim copyright to this file; my program just 
+ * uses this code.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +20,8 @@ namespace Assign2_POC.processing.porter
 
 	   See also & retreived from http://www.tartarus.org/~martin/PorterStemmer
 
+       NOTE: "All these encodings of the algorithm can be used free of charge for any purpose." Retreived from the website listed above on 11/2/2013 
+     
 	   History:
 
 	   Release 1
