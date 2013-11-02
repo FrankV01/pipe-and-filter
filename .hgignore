@@ -1,0 +1,8 @@
+# hg ignore file
+
+syntax: glob
+*.DS_Store
+
+**/bin/**
+**/obj/**
+
